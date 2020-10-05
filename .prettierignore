@@ -1,0 +1,9 @@
+node_modules/
+uploads/
+.dockerignore
+.env
+.eslintignore
+.gitignore
+.prettierignore
+Dockerfile
+package-lock.json

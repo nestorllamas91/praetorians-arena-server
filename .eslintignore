@@ -1,0 +1,17 @@
+node_modules/
+uploads/
+.dockerignore
+.env
+.eslintignore
+.eslintrc.json
+.gitignore
+.huskyrc.json
+.prettierignore
+.prettierrc.json
+Dockerfile
+jsconfig.json
+LICENSE.md
+lint-staged.config.js
+package.json
+package-lock.json
+README.md
